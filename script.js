@@ -24,8 +24,7 @@ document.addEventListener("DOMContentLoaded", function() {
       { href: '#curiosidades', text: 'Curiosidades' },
       { href: '#artigo-squirtle', text: 'Artigo sobre Squirtle' },
       { href: '#recursos', text: 'Recursos Adicionais' },
-      { href: '#evolucao', text: 'Evolução' },
-      { href: './pages/pokemon/index.html?name=wartortle', text: 'pokemao' }
+      { href: '#evolucao', text: 'Evolução' }
     ];
   
     navItems.forEach(item => {
